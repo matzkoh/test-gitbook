@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "github-issue-feedback"
+  ],
+  "pluginsConfig": {
+    "github-issue-feedback": {
+      "repo": "matzkoh/test-gitbook",
+      "private": true
+    }
+  }
+}
